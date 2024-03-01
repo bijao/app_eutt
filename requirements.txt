@@ -1,7 +1,7 @@
 altair==4.2.0
-streamlit==1.5.0
-transformers==4.13.2
-torch==1.10.1
+streamlit
+transformers
+torch==
 attrs==22.1.0
 beautifulsoup4==4.11.1
 blinker==1.5
